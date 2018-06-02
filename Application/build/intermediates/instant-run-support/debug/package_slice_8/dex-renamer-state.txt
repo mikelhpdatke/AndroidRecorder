@@ -1,0 +1,4 @@
+#Sat May 26 15:25:31 ICT 2018
+base.0=I\:\\android-MediaRecorder-master\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

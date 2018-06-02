@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:20:1-57:12
+INJECTED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:20:1-57:12
+INJECTED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:20:1-57:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\b735dd0eebc7d547cc97195d76a00b9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d6ed51a04793a7fa0321a4487869a2fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\cc8e6ca9bdb3e370d6406d860a9da10a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f3847859da9a00a3a86bf0ee8520f71c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\c8fcbab0619f4f129cb3b158ce2fc8a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\3f84d8b01ecbed05d3c8c61be846d0d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\1c49c80df7a7959f3cb8b70ad1aef739\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\e9fddcbbda7ace37e34b8f460903a92e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\4c2033a8736622ae96eeca24e1c27ece\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\07284832cb4b529add757c53bbf506b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\261d7fde0d3443a35c9304f29d5b0fa5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\1fba0a333b83b2c70e4bca05ed01c2a3\AndroidManifest.xml:17:1-24:12
+INJECTED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:20:1-57:12
+INJECTED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:20:1-57:12
+	package
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:22:11-54
+	android:versionName
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:24:5-30
+		INJECTED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml
+		INJECTED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:21:11-57
+	xmlns:android
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:20:11-69
+	android:versionCode
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:23:5-28
+		INJECTED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml
+		INJECTED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:29:22-78
+uses-permission#android.permission.RECORD_VIDEO
+ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:30:5-71
+	android:name
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:30:22-68
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:31:5-70
+	android:name
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:31:22-68
+uses-permission#android.permission.CAMERA
+ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:32:5-65
+	android:name
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:32:22-62
+uses-feature#android.hardware.camera
+ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:33:5-60
+	android:name
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:33:19-57
+application
+ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:35:5-55:19
+	android:label
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:39:9-41
+	android:fullBackupContent
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:37:9-41
+	tools:ignore
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:41:9-48
+	android:icon
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:38:9-45
+	android:allowBackup
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:36:9-35
+	android:theme
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:40:9-40
+activity#com.example.android.mediarecorder.MainActivity
+ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:45:9-54:20
+	android:screenOrientation
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:48:13-50
+	android:label
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:47:13-45
+	android:name
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:46:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml:52:27-74
+uses-sdk
+INJECTED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml
+INJECTED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\b735dd0eebc7d547cc97195d76a00b9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\b735dd0eebc7d547cc97195d76a00b9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d6ed51a04793a7fa0321a4487869a2fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d6ed51a04793a7fa0321a4487869a2fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\cc8e6ca9bdb3e370d6406d860a9da10a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\cc8e6ca9bdb3e370d6406d860a9da10a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f3847859da9a00a3a86bf0ee8520f71c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f3847859da9a00a3a86bf0ee8520f71c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\c8fcbab0619f4f129cb3b158ce2fc8a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\c8fcbab0619f4f129cb3b158ce2fc8a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\3f84d8b01ecbed05d3c8c61be846d0d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\3f84d8b01ecbed05d3c8c61be846d0d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\1c49c80df7a7959f3cb8b70ad1aef739\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\1c49c80df7a7959f3cb8b70ad1aef739\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\e9fddcbbda7ace37e34b8f460903a92e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\e9fddcbbda7ace37e34b8f460903a92e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\4c2033a8736622ae96eeca24e1c27ece\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\4c2033a8736622ae96eeca24e1c27ece\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\07284832cb4b529add757c53bbf506b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\07284832cb4b529add757c53bbf506b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\261d7fde0d3443a35c9304f29d5b0fa5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\261d7fde0d3443a35c9304f29d5b0fa5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\1fba0a333b83b2c70e4bca05ed01c2a3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\luong\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\1fba0a333b83b2c70e4bca05ed01c2a3\AndroidManifest.xml:20:5-22:41
+INJECTED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml
+INJECTED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml
+		INJECTED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml
+		ADDED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml
+		INJECTED from I:\android-MediaRecorder-master\Application\src\main\AndroidManifest.xml
